@@ -1,0 +1,42 @@
+
+body{
+	background: linear-gradient(to right, #0062e6, #33aeff);
+}
+
+.mv-auto{
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+}
+
+form .btn{
+	font-size: 80%;
+	border-radius: 5rem;
+	letter-spacing: 0.1rem;
+	font-weight: bold;
+	padding: 1rem;
+}
+
+.form-group input{
+	height: auto;
+	border-radius: 2rem;
+}
+
+.btn-facebook{
+	color: white;
+	background: #3b5998
+}
+
+.btn-facebook:hover{
+	color: white;
+}
+
+.btn-google:hover{
+	color: white;
+}
+
+.btn-google{
+	color: white;
+	background: #ea4335
+}
+
